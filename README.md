@@ -25,3 +25,8 @@ rodarmos o projeto automaticamente.)
 *7* para rodar i projeto usar o comando nodemon src/index.ts 
 
 ***PARAR DE EXECUTAR O TERMINAL CNTRL+C*** 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------
